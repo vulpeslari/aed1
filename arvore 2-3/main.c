@@ -1,3 +1,23 @@
+/*
+    Nomes: ALICE SOPHIA LIMA VIEIRA				
+        JORGE HENRIQUE BORGES SANTOS			
+        JÚLIO CÉSAR PINHEIRO DE ARAÚJO			
+        KAUÃ SALES VIANA					
+        LARISSA DE SOUZA COSTA 				
+        MATHEUS MARTINS RODRIGUES 			
+        RAYANE MORAES FERREIRA				
+        VITOR HUGO TROVÃO DE MORAES 			
+
+    Mat:2215310033
+        2215310039
+        2215310015
+        2215310041
+        2215310042
+        2215310024
+        2215310026
+        2215310049
+*/
+
 #include "tree.h"
 
 int main(int argc, char *argv)
